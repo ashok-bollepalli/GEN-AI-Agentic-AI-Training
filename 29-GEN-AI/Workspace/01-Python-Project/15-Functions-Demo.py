@@ -73,3 +73,46 @@ def student_info(**args):
 
 student_info(name="Raj", course="GEN AI")
 student_info(name="Ram", course="GEN AI", fee=10000)
+
+
+
+# local variable example
+def test():
+    msg1="Hello Python"
+    print(msg1)
+
+test()
+
+
+# Global variable
+text1 = "Welcome to AI Training"
+def test1():
+    print(text1)
+
+test1()
+print(text1)    
+
+
+# Nested Functions
+
+#Ex-1:
+
+def outer():
+    print("Outer Function")
+
+    def inner():
+      print("Inner Function")
+
+    inner()
+
+outer()    
+
+
+def add(a:int,b:int) -> int:
+    return a + b
+
+result = add(10,20)
+print(result)
+
+result = add("Hi", " Hello")
+print(result)
