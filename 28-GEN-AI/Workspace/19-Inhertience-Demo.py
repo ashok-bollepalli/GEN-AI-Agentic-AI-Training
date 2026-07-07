@@ -1,34 +1,29 @@
 class ChatBot:
 
     def welcome_user(self):
-        print("Welcome to Gen AI Chatbot")
+        print("Welcome to GEN AI Chatbot..")
 
     def collect_question(self, question):
-        print("User Question:", question)
+        print("User Question : ", question)
 
 
 class CustomerSupportBot(ChatBot):
-
     def solve_customer_issue(self):
-        print("Solving customer issue using AI")
-
+        print("Solving Customer issue using AI")
 
 class CourseCounsellingBot(ChatBot):
+    def sugget_course(self):
+        print("Suggesting Best Course Using Ai")
 
-    def suggest_course(self):
-        print("Suggesting best course using AI")
 
+bot1 = CustomerSupportBot()
+bot1.welcome_user()
+bot1.collect_question("Why my outlook is not working ?")
+bot1.solve_customer_issue()
 
-bot = CourseCounsellingBot()
+print("--------------------------")
 
-bot.welcome_user()
-bot.collect_question("Which course is best for Gen AI?")
-bot.suggest_course()
-
-print("-------------------------------")
-
-bot = CustomerSupportBot()
-
-bot.welcome_user()
-bot.collect_question("My Outlook Not working")
-bot.solve_customer_issue()
+bot2 = CourseCounsellingBot()
+bot2.welcome_user()
+bot2.collect_question("Which course is best for me ?")
+bot2.sugget_course()
