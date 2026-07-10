@@ -1,0 +1,22 @@
+Ashok IT Course Knowledge Base
+
+GEN AI & Agentic AI with Python:
+- Duration: 4 months.
+- Delivery mode: Online live training.
+- Main topics: Python, prompt engineering, LLM integration, LangChain, RAG,
+  vector databases, AI agents, Agentic AI workflows, FastAPI, Streamlit,
+  real-time projects, and cloud deployment.
+- Students receive classroom notes, backup videos, doubt clarification,
+  project guidance, a course-completion certificate, and placement assistance.
+- Sample projects: document question-answering assistant, student support
+  chatbot, RAG application, AI automation assistant, and multi-model AI app.
+
+Java Full Stack:
+- Main topics: Core Java, Advanced Java, Spring, Spring Boot, Data JPA,
+  Microservices, Security, REST APIs, SQL, frontend development, cloud,
+  DevOps, projects, and interview preparation.
+
+General policy:
+- Course-specific fee and enrollment information should be taken from the
+  student database when a student ID is supplied.
+- Live operational information may be supplied by an external API.
