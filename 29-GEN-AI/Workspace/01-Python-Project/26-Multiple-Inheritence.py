@@ -3,13 +3,14 @@ class Father:
         print("Accessing Father Property")
     def m1(self):
         print("Father m1() called...")
+#----------------------------------------------------#
 
 class Mother:
     def mother_property(self):
         print("Accessing Mother Property")
     def m1(self):
         print("Mother m1() called...")
-
+#----------------------------------------------------#
 class Child(Mother, Father):
     def child_property(self):
         print("Accessing Child Property")
