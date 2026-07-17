@@ -63,10 +63,13 @@ print(thread.is_alive())
 
 ##################################################
 
-print(threading.current_thread())
-print(threading.current_thread().name)
 
+print("Current Thread:", threading.current_thread())
+print("Thread Name:", threading.current_thread().name)
+print("Thread Identifier:", threading.current_thread().ident)
+print("Active Thread Count:", threading.active_count())
 
+##################################################
 
 
 
