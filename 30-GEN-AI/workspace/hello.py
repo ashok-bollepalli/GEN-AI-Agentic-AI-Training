@@ -1,18 +1,11 @@
-import threading
-import time
+import sys
 
-def task_1():
-    print("task-1 started")
-    time.sleep(3)
-    print("task-1 finished")
+a = 10
+name = "Ashok"
+phno = 6686868
+price = 15.50
 
-def task_2():
-    print("task-2 started")
-    time.sleep(2)
-    print("task-2 finished")
-
-thread1 = threading.Thread(target=task_1)
-thread2 = threading.Thread(target=task_2)
-
-thread1.start() # Wt-1
-thread2.start() #Wt-2
+print(a, type(a), sys.getsizeof(a))
+print(name, type(name), sys.getsizeof(name))
+print(phno, type(phno), sys.getsizeof(phno))
+print(price, type(price), sys.getsizeof(price))

@@ -1,18 +1,18 @@
-weather_data={
+weather_data = {
 
-    "Hyderabad":{
-        "temperature":"32 C",
-        "condition":"Sunny"
+    "Hyderabad": {
+        "temperature": "32 C",
+        "condition": "Sunny"
     },
 
-    "Delhi":{
-        "temperature":"40 C",
-        "condition":"Hot"
+    "Delhi": {
+        "temperature": "40 C",
+        "condition": "Hot"
     },
 
-    "Mumbai":{
-        "temperature":"29 C",
-        "condition":"Rainy"
+    "Mumbai": {
+        "temperature": "29 C",
+        "condition": "Rainy"
     }
 
 }
