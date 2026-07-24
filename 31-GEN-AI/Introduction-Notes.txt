@@ -1,0 +1,256 @@
+
+
+Join Google Classroom For Class Notes and Class Videos : https://classroom.google.com/c/ODcwOTI3NDEwNDIw?cjc=2beokdea
+
+
+=====================================================
+# GEN AI + Agentic AI development with Python
+=====================================================
+
+1) Who is your trainer
+
+2) Pre-Requisites
+
+3) Course Content
+
+4) Course Details
+
+5) What kind of job roles you can apply after this
+
+6) Q & A
+
+
+**Trainer:** Mr. Ashok
+
+**IT Experience:** 12+ Years
+
+**Training Experience:** 10+ Years
+
+**Ashok IT Started:** 2020
+
+
+*** 99% of software engineers are just "AI Users" today....
+
+*** 1% of software engineers are building AI systems and AI agents...
+
+*** Companies are looking for GEN AI & Agentic AI developers...
+
+
+*** To build AI tool, we should know below concepts...
+
+			1) Python Programming
+			2) Python Libraries
+			3) ML & DL Fundamentals
+			4) LLMS & Integration
+			5) LLM development
+			6) RAG & Vector Databases
+			7) Lang Chain 
+			8) Lang Graph
+			9) MCP Server & Client
+			10) Crew AI
+			11) Multi Agent Systems
+			12) Agent Workflows
+			13) Agents Deployment
+			14) Agents Monitoring
+
+
+## Pre-Requisites
+
+		-- No pre-requisites
+
+** We will start from the basics and gradually move towards advanced real-time projects development.					
+
+
+##### Course Content
+
+## Module-1 : Python Programming (Core Python + Advanced Python)
+
+* Python installation and environment setup
+* Variables and data types
+* Operators
+* Conditional statements
+* Loops
+* Strings
+* Lists, tuples, sets, and dictionaries
+* Functions
+* Modules and packages
+* File handling
+* Exception handling
+* Object-Oriented Programming (OOPS)
+* Multi Threading
+* Working with APIs
+* Database connectivity
+* Real-time Python coding practices
+
+## Module 2: Python Libraries for AI Development
+
+* NumpY
+* Pandas
+* Matplotlib
+* scikit-learning
+* Fast API
+* Streamlit UI
+
+
+## Module 3: ML & DL fundamentals
+
+* Maths (Probability & Statistics)
+
+* ML vs DL
+* Types of Machine Learning
+* Regression
+* Classification
+* Decision Trees
+* Random Forest
+
+* Back Propagation
+* Optimizers
+* CNN vs RNN
+* Transformers
+
+** ML & DL Models Development
+
+
+## Module 4: LLMs and Prompt Engineering
+
+		- PAID LLMS integration in our applications
+
+		- Free LLMs integration using Ollama
+
+		- Language Model Development & Training
+
+		- Prompt Engineering Techniques
+
+## Module 5: Generative AI 
+
+* Introduction to Generative AI
+* Text generation applications
+* Chatbot development
+* Document Q&A systems
+* Embeddings
+* Vector databases
+* RAG architecture		
+* Real-time Gen AI project development
+
+
+## Module 6 : Agentic AI
+
+* What is Agentic AI?
+* Difference between Gen AI and Agentic AI
+* AI agents architecture
+* Agent workflows
+* Planning and reasoning
+* Tool usage by agents
+* Multi-step task execution
+* LangChain pipeline
+* LangGraph workflows
+* MCP Server & Client
+* Multi Agent System with CrewAI
+
+## Module 7: MLOps + LLMOps
+
+* Git and GitHub
+* Version control
+* Docker basics
+* Dockerizing Python applications
+* Kubernetes basics
+* CI/CD pipeline overview
+* Cloud deployment basics
+* Model deployment
+* API deployment
+* Monitoring AI applications
+* Logging and exception handling
+* Production-ready project structure
+
+
+## Module 8: Interview Preparation and Resume Building
+
+
+# Who Can Attend?
+
+This program is suitable for:
+
+1. Freshers
+
+2. Developers
+
+3. Operations Engineers
+
+4. Testers
+
+5. Non-IT Students
+
+6. Final-year students
+
+7. Working professionals who want to move into AI
+
+8. Career gap candidates
+
+9. People who want to learn AI application development from scratch
+
+
+# Course Details
+
+** Start Date : Today
+
+** Class Timings : 6:30 am to 7:30 AM IST
+
+** Weekly : 5 Days (mon-fri)
+
+** Mode : Online live Classes
+
+** Trainer : Mr. Ashok
+ 
+** Course Fee : 25,000 INR
+
+** Duration : 3 to 3.5 Months 
+
+
+## What Students Will Get
+
+* Live online training
+
+* Soft copy materials
+
+* Class recordings
+
+* Recordings access for 1 year after course completion
+
+* Real-time project development
+
+* Interview preparation
+
+* Resume building support
+
+* Practical coding sessions
+
+
+############# Job Roles After This Program #################
+
+1. Data Scientist
+
+2. AI Engineer
+
+3. Machine Learning Engineer
+
+4. Gen AI Developer
+
+5. Agentic AI Developer
+
+6. AI Application Developer
+
+7. AI Tester
+
+8. Python Developer
+
+9. MLOps Engineer
+
+
+# Final Message
+
+Join the **GEN AI + Agentic AI with Python Developer Program** and start building your career in the next generation of software development.
+
+
+** Don't just be an AI user.... Become a Generative AI Developer.
+
+=================================================================================================
