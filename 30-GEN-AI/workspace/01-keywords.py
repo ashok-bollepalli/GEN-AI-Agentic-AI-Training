@@ -1,12 +1,12 @@
 
-import keyword
+import keyword as k
 
-print(keyword.kwlist)
+print(k.kwlist)
 
-print(len(keyword.kwlist))
+print(len(k.kwlist))
 
-print(keyword.iskeyword("hi"))
+print(k.iskeyword("hi"))
 
-print(keyword.iskeyword("hello"))
+print(k.iskeyword("hello"))
 
-print(keyword.iskeyword("with"))
+print(k.iskeyword("with"))
